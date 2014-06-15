@@ -1,0 +1,14 @@
+.jumbotron {
+	background: #402817;
+	color: #ffffff;
+}
+
+.styled {
+	font-family: 'Lusitana', serif;
+	font-size: 63px;
+}
+
+.jumbotron h1 {
+	font-weight: normal;
+	font-size: 55px;
+}
