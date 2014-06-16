@@ -33,3 +33,7 @@ body {
 	font-weight: normal;
 	font-size: 55px;
 }
+
+.pad {
+  padding-bottom: 30px;
+}
