@@ -1,40 +1,45 @@
 ---
 layout: default
 ---
-
-<div class="jumbotron">
-  <div class="container">
-  	<div class="row">
-  		<div class="col-md-6 col-md-offset-3">
-  			<div class="row text-center">
-  				<a href="http://mongoapp.com/"><img src="/img/logo.png" /></a>
-  				<h1><span class="styled">Mongo</span>.app</h1>
-  			</div>
-  		</div>
-  	</div>
-  	<div class="row">
-  		<div class="col-md-6 col-md-offset-3">
-		  	<p class="text-center">the easiest way to run MongoDB on the Mac</p>
-		    <p class="text-center">
-		    	<a href="https://github.com/MongoApp/MongoApp/releases/download/2.6.1.1/Mongo.zip" class="btn btn-success btn-lg" role="button"><span class="glyphicon glyphicon-download"></span> Download</a>
-		    	<a href="https://github.com/MongoApp/MongoApp/releases" target="_blank" class="btn btn-default btn-lg" role="button"><span class="glyphicon glyphicon-list"></span> Releases</a>
-		    	<a href="https://github.com/MongoApp/MongoApp/" target="_blank"class="btn btn-default btn-lg" role="button"><span class="glyphicon glyphicon-cloud"></span> Github</a>
-		    </p>
+<div id="wrapper">
+  <div class="jumbotron">
+    <div class="container">
+    	<div class="row">
+    		<div class="col-md-6 col-md-offset-3">
+    			<div class="row text-center">
+    				<a href="http://mongoapp.com/"><img src="/img/logo.png" /></a>
+    				<h1><span class="styled">Mongo</span>.app</h1>
+    			</div>
+    		</div>
     	</div>
+    	<div class="row">
+    		<div class="col-md-6 col-md-offset-3">
+  		  	<p class="text-center">the easiest way to run MongoDB on the Mac</p>
+  		    <p class="text-center">
+  		    	<a href="https://github.com/MongoApp/MongoApp/releases/download/2.6.1.2/Mongo.zip" class="btn btn-success btn-lg" role="button"><span class="glyphicon glyphicon-download"></span> Download</a>
+  		    	<a href="https://github.com/MongoApp/MongoApp/releases" target="_blank" class="btn btn-default btn-lg" role="button"><span class="glyphicon glyphicon-list"></span> Releases</a>
+  		    	<a href="https://github.com/MongoApp/MongoApp/" target="_blank"class="btn btn-default btn-lg" role="button"><span class="glyphicon glyphicon-cloud"></span> Github</a>
+  		    </p>
+      	</div>
+      </div>
     </div>
   </div>
+  <div class="container">
+    {{ content }}
+  </div>
 </div>
-<div class="container">
-	{{ content }}
-	<div class="row text-center">
-		<iframe src="http://ghbtns.com/github-btn.html?user=mongoapp&repo=mongoapp&type=watch&count=true&size=large"
-  			allowtransparency="true" frameborder="0" scrolling="0" width="155" height="30"></iframe>
+<div id="footer">
+  <div class="container">
+  	<div class="row text-center">
+  		<iframe src="http://ghbtns.com/github-btn.html?user=mongoapp&repo=mongoapp&type=watch&count=true&size=large"
+    			allowtransparency="true" frameborder="0" scrolling="0" width="155" height="30"></iframe>
 
-  		<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://mongoapp.com" data-text="Mongo.app | the easiest way to run #mongodb on the Mac" data-via="pkozlov" data-size="large">Tweet</a>
-  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+    		<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://mongoapp.com" data-text="Mongo.app | the easiest way to run #mongodb on the Mac" data-via="pkozlov" data-size="large">Tweet</a>
+    <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
-  		<a href="https://twitter.com/TheMongoApp" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @TheMongoApp</a>
-		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+    		<a href="https://twitter.com/TheMongoApp" class="twitter-follow-button" data-show-count="false" data-size="large">Follow @TheMongoApp</a>
+  		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
-	</div>
+  	</div>
+  </div>
 </div>
