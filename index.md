@@ -14,6 +14,7 @@ Unzip archive, copy Mongo.app to /Application folder and double-click.
 ### Contribute & Support
 
 If you have an issue requests, or you find a bug, you can easily report them on [GitHub Issues](https://github.com/mongoapp/mongoapp/issues).
+
 If you want to fix bug or create new feature, just fork Mongo.app, make changes and create a pull request.
 List of TODOs you can find at [GitHub](https://github.com/mongoapp/mongoapp/). Furthermore, you can create support documentation.
 
