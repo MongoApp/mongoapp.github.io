@@ -6,16 +6,14 @@ title: the easiest way to run MongoDB on the Mac
 What is this?
 -------------
 
-Mongo.app is status bar application what runs MongoDB. Apllication contains MongoDB binaries and command line tools.
+Mongo.app is status bar application that runs MongoDB. Application contains MongoDB binaries and command line tools.
 
 Contribute & Support
 --------------------
 
-If you find a bug, please [report an issue](https://github.com/mongoapp/mongoapp/issues) on Github.
-[GitHub Issues](https://github.com/mongoapp/mongoapp/issues) is also the best place for feature requests.
-
+If you have an issue requests, or you find a bug, you can easily report them on [GitHub Issues](https://github.com/mongoapp/mongoapp/issues).
 If you want to fix bug or create new feature, just fork Mongo.app, make changes and create a pull request.
-List of TODOs you can find at [GitHub](https://github.com/mongoapp/mongoapp/). Also you can create a documentation.
+List of TODOs you can find at [GitHub](https://github.com/mongoapp/mongoapp/). Furthermore, you can create support documentation.
 
 You can ask any question at [@TheMongoApp](https://twitter.com/TheMongoApp) on Twitter.
 
