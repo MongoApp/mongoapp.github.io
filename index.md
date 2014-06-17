@@ -23,8 +23,9 @@ You can ask any question at [@TheMongoApp](https://twitter.com/TheMongoApp) on T
 ### License
 
 The source code for Mongo.app is released under the [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/3.0/).
-The app also includes MongoDB binaries what using same license.
-Please see the GitHub page for details.
+
+The app also includes MongoDB binaries that covered under the same license.
+For more information please see the GitHub page.
 
 ### Credits
 
