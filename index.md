@@ -12,10 +12,10 @@ Contribute & Support
 --------------------
 
 If you find a bug, please [report an issue](https://github.com/mongoapp/mongoapp/issues) on Github.
-[GitHub Issues](https://github.com/mongoapp/mapp/issues) is also the best place for feature requests.
+[GitHub Issues](https://github.com/mongoapp/mongoapp/issues) is also the best place for feature requests.
 
 If you want to fix bug or create new feature, just fork Mongo.app, make changes and create a pull request.
-Also you can create a documentation.
+List of TODOs you can find at [GitHub](https://github.com/mongoapp/mongoapp/). Also you can create a documentation.
 
 You can ask any question at [@TheMongoApp](https://twitter.com/TheMongoApp) on Twitter.
 
