@@ -29,9 +29,14 @@ body {
 	font-size: 63px;
 }
 
+.colored {
+  color: #ECD898;
+}
+
 .jumbotron h1 {
+  font-family: 'Lusitana', serif;
 	font-weight: normal;
-	font-size: 55px;
+	/*font-size: 55px;*/
 }
 
 .pad {
