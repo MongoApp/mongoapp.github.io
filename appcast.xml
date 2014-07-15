@@ -11,7 +11,7 @@
                             https://github.com/MongoApp/MongoApp/releases/tag/v2.6.3.1
                         </sparkle:releaseNotesLink>
            <pubDate>Tue, 15 Jun 2014 10:42:34 +0000</pubDate>
-           <enclosure url="https://github.com/MongoApp/MongoApp/releases/download/v2.6.3.1/Mongo.zip" sparkle:version="1.7.1" sparkle:shortVersionString="2.6.3.1" length="104245456" type="application/octet-stream" />
+           <enclosure url="https://github.com/MongoApp/MongoApp/releases/download/v2.6.3.1/Mongo.zip" sparkle:version="1" sparkle:shortVersionString="2.6.3.1" length="104245456" type="application/octet-stream" />
         </item>
    </channel>
 </rss>
