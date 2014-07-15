@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <channel>
+      <title>Mongo.app Changelog</title>
+      <link>http://mongoapp.com/appcast.xml</link>
+      <description>Most recent changes with links to updates for Mongo.app</description>
+      <language>en</language>
+        <item>
+           <title>Version 2.6.3.1</title>
+                        <sparkle:releaseNotesLink>
+                            https://github.com/MongoApp/MongoApp/releases/tag/v2.6.3.1
+                        </sparkle:releaseNotesLink>
+           <pubDate>Tue, 15 Jun 2014 10:42:34 +0000</pubDate>
+           <enclosure url="https://github.com/MongoApp/MongoApp/releases/download/v2.6.3.1/Mongo.zip" sparkle:version="1.7.1" sparkle:shortVersionString="2.6.3.1" length="104245456" type="application/octet-stream" />
+        </item>
+   </channel>
+</rss>
