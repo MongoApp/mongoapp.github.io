@@ -13,7 +13,7 @@
                <li>Updated developer certificates (may cause problems while updating, if it happens, please download version from <a href="http://mongoapp.com/">http://mongoapp.com/</a> and reinstall it)</li></ul>
                ]]>
            </description>
-           <pubDate>Tue, 17 Dec 2014 1:32:34 +0000</pubDate>
+           <pubDate>Tue, 17 Mar 2015 1:32:34 +0000</pubDate>
            <enclosure url="https://github.com/MongoApp/MongoApp/releases/download/v3.0.1.1/Mongo.zip" sparkle:version="1" sparkle:shortVersionString="3.0.1.1" length="46513209" type="application/octet-stream" />
        </item>
    </channel>
