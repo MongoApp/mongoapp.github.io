@@ -6,15 +6,15 @@
       <description>Most recent changes with links to updates for Mongo.app</description>
       <language>en</language>
        <item>
-           <title>Version 2.6.6.2</title>
+           <title>Version 3.0.1.1</title>
            <description>
                <![CDATA[
-               <ul><li>MongoDB version 2.6.6</li>
+               <ul><li>MongoDB version 3.0.1</li>
                <li>Updated developer certificates (may cause problems while updating, if it happens, please download version from <a href="http://mongoapp.com/">http://mongoapp.com/</a> and reinstall it)</li></ul>
                ]]>
            </description>
            <pubDate>Tue, 17 Dec 2014 1:32:34 +0000</pubDate>
-           <enclosure url="https://github.com/MongoApp/MongoApp/releases/download/v2.6.6.2/Mongo.zip" sparkle:version="3" sparkle:shortVersionString="2.6.6.2" length="101811576" type="application/octet-stream" />
+           <enclosure url="https://github.com/MongoApp/MongoApp/releases/download/v3.0.1.1/Mongo.zip" sparkle:version="1" sparkle:shortVersionString="3.0.1.1" length="46513209" type="application/octet-stream" />
        </item>
    </channel>
 </rss>
