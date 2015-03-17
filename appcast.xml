@@ -10,12 +10,11 @@
            <description>
                <![CDATA[
                <ul><li>MongoDB version 3.0.1</li>
-               <li>Deployment by Mac Installer package</li>
-               <li>Updated developer certificates (may cause problems while updating, if it happens, please download version from <a href="http://mongoapp.com/">http://mongoapp.com/</a> and reinstall it)</li></ul>
+               <li><b>If you see "Code sign error", please download version from <a href="http://mongoapp.com/">http://mongoapp.com/</a> and reinstall it.</b></li></ul>
                ]]>
            </description>
            <pubDate>Tue, 17 Mar 2015 1:32:34 +0000</pubDate>
-           <enclosure url="https://github.com/MongoApp/MongoApp/releases/download/v3.0.1.3/MongoApp.pkg" sparkle:version="3" sparkle:shortVersionString="3.0.1.3" length="46443142" type="application/octet-stream" />
+           <enclosure url="https://github.com/MongoApp/MongoApp/releases/download/v3.0.1.3-3/MongoApp.zip" sparkle:version="3" sparkle:shortVersionString="3.0.1.3" length="46443142" type="application/octet-stream" />
        </item>
    </channel>
 </rss>
