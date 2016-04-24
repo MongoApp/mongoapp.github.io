@@ -11,6 +11,25 @@ Mongo.app is status bar application that runs MongoDB. Application contains Mong
 
 Unzip archive, copy Mongo.app to /Application folder and double-click.
 
+### Command Line Tools/ Configure your `$PATH`:
+
+Mongo.app includes standard command line tools. If you want to use them, you must configure the `$PATH` variable.
+
+If you are using **bash** (default shell on OS X) or **zsh**, add the following line to `~/.bash_profile` or `~/.zshrc` file respectively:
+
+```bash
+export PATH=$PATH://Applications/MongoDB.app/Contents/Resources/Vendor/mongodb
+```
+
+If you're using the **fish** shell, add the following to your `config.fish` (normally located at `~/.config/fish/config.fish`):
+
+```bash
+set PATH /Applications/MongoDB.app/Contents/Resources/Vendor/mongodb $PATH
+```
+
+You can now check if the path is set up correctly by typing `which mongo`.
+
+
 ### Contribute & Support
 
 If you have an issue requests, or you find a bug, you can easily report them on [GitHub Issues](https://github.com/mongoapp/mongoapp/issues).
